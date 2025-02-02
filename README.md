@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jdjinn
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Minecraft Gameservers
+- 💞️ I’m looking to collaborate on Full Stack Developer and Minecraft Gameservers
 - 📫 Reach me by on discord ``jd_jinn``
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There is no doubt about that. With technology taking over the world by a storm, coding has become almost a necessary skill.
 
 <!---
 jdjinn/jdjinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

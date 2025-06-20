@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonallwin
+- 👋 Hi, I’m @jdjinn
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Full Stack Developer and Minecraft Gameservers

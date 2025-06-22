@@ -197,22 +197,22 @@ span{
     0%, 20%{
         content: "Developer";
     }
-    21%, 37.5%%{
+    21%, 18%%{
         content: "Web Developer";
     }
-    37.6%, 45%{
+    39%, 47%{
         content: "Discord Server Developer";
     }
-    46%, 52.5%{
+    48%, 56%{
         content: "Frontend Developer";
     }
-    52.6%, 61%{
+    57%, 65%{
         content: "Backend Developer";
     }
-    62%, 76%{
+    66%, 84%{
         content: "Minecraft Server Developer";
     }
-    77%, 91%{
+    85%, 97%{
         content: "DevOps & Full-Stack";
     }
 }

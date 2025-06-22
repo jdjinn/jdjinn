@@ -195,19 +195,19 @@ span{
 }
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
-    }
-    21%, 40%%{
         content: "Developer";
     }
+    21%, 40%%{
+        content: "Web Developer";
+    }
     41%, 60%{
-        content: "Discord Developer";
+        content: "Discord, Minecraft Server Developer";
     }
     61%, 80%{
-        content: "Minecraft Developer";
+        content: "Frontend & Backend Developer";
     }
     81%, 100%{
-        content: "Youtuber";
+        content: "DevOps";
     }
 }
 @media (max-width: 1000px){

@@ -174,7 +174,7 @@ span{
     position: relative;
 }
 .typing-text span::before{
-    content: "Software Developer";
+    content: "Student";
     color: #b74b4b;
     animation: words 20s infinite;
 }
@@ -194,13 +194,13 @@ span{
     }
 }
 @keyframes words{
-    0%, 15%{
+    0%, 20%{
         content: "Developer";
     }
-    16%, 30%%{
+    21%, 37.5%%{
         content: "Web Developer";
     }
-    31%, 45%{
+    37.6%, 45%{
         content: "Discord Server Developer";
     }
     46%, 52.5%{

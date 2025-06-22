@@ -194,19 +194,22 @@ span{
     }
 }
 @keyframes words{
-    0%, 20%{
+    0%, 15%{
         content: "Developer";
     }
-    21%, 40%%{
+    16%, 30%%{
         content: "Web Developer";
     }
-    41%, 60%{
-        content: "Discord, Minecraft Server Developer";
+    31%, 45%{
+        content: "Discord Server Developer";
     }
-    61%, 80%{
+    46%, 60%{
         content: "Frontend & Backend Developer";
     }
-    81%, 100%{
+    61%, 75%{
+        content: "Minecraft Server Developer";
+    }
+    76%, 90%{
         content: "DevOps";
     }
 }
